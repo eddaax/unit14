@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  type: 
+  creator_fname: MyString
+  string: MyString
+  creator_lname: MyString
+  description: MyString
+  difficulty: MyString
+  knitting_book: 
+
+two:
+  title: MyString
+  type: 
+  creator_fname: MyString
+  string: MyString
+  creator_lname: MyString
+  description: MyString
+  difficulty: MyString
+  knitting_book: 
